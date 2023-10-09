@@ -34,13 +34,12 @@ $dniviejo=$_GET['edit'];
 
 	<form style="background-color: rgba(36,219,165,0.8); border:1px; border-color: #000;" class="well form-horizontal" action="edicion.php" method="post" id="contact_form"> 
 
-			<center><a href="index.html">
-			 <button style="margin-right: 500px;" type="button" class="btn btn-lg">
+			<a href="index.html">
+			 <button style="float: left;" type="button" class="btn btn-lg">
 			 	<span class="glyphicon glyphicon-home">
 				</span>
 				</button>
 				</a>
-				</center>
 				
       <fieldset>
 

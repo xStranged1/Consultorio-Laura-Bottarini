@@ -1,0 +1,48 @@
+.container-center {
+	margin-top: 50px;
+	background-color: rgba(36,219,165,1);
+	justify-content: center;
+	text-align: center;
+	align-self: center;
+	display: flex;
+}
+body{
+	background-color: rgba(36,219,165,1);
+}
+.separador{
+	height: 150px;
+}
+.separadors{
+	height: 30px;
+}
+.separadorform{
+	height: 6px;
+}
+.enc{
+	display: inline-block;
+}
+.violeta{
+		background-color: rgba(179,20,208,0.7);
+}
+.lila{
+	background-color: rgba(86,74,100,0.7);
+}
+.verde{
+	background-color: rgba(20,208,33,0.83);
+}
+.button{
+	width: 480px; 						
+	height: 50px;						 
+	font-family:monospace;
+	font-size: 17px; 	
+	border-width: 1px;			 
+	border-color: rgba(0,0,0,1);
+	color: #000;	
+}
+
+
+p{
+	padding-left: 120px;
+	font-size: 25px;
+	color: #000;
+}
